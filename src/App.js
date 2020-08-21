@@ -80,7 +80,7 @@ function App() {
 					votes = {rest.restaurant.user_rating.votes}
 					rating_color = {rest.restaurant.user_rating.rating_obj.bg_color.type}
 				/>	  
-			))};
+			))}
 		  
 	    </div>
   );
