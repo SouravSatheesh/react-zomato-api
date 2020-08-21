@@ -1,4 +1,4 @@
-##React frontend website using Zomato API
+## React frontend website using Zomato API
 
 This project was created with react and [Zomato API](https://developers.zomato.com/api)
 
