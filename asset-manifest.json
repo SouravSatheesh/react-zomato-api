@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-zomato-api/static/css/main.a3864f47.chunk.css",
+    "main.js": "/react-zomato-api/static/js/main.c78bf4b3.chunk.js",
+    "main.js.map": "/react-zomato-api/static/js/main.c78bf4b3.chunk.js.map",
+    "runtime-main.js": "/react-zomato-api/static/js/runtime-main.b18794d1.js",
+    "runtime-main.js.map": "/react-zomato-api/static/js/runtime-main.b18794d1.js.map",
+    "static/js/2.2c872027.chunk.js": "/react-zomato-api/static/js/2.2c872027.chunk.js",
+    "static/js/2.2c872027.chunk.js.map": "/react-zomato-api/static/js/2.2c872027.chunk.js.map",
+    "index.html": "/react-zomato-api/index.html",
+    "precache-manifest.2ae012b916bdd6d4a5e2964132aafc4c.js": "/react-zomato-api/precache-manifest.2ae012b916bdd6d4a5e2964132aafc4c.js",
+    "service-worker.js": "/react-zomato-api/service-worker.js",
+    "static/css/main.a3864f47.chunk.css.map": "/react-zomato-api/static/css/main.a3864f47.chunk.css.map",
+    "static/js/2.2c872027.chunk.js.LICENSE.txt": "/react-zomato-api/static/js/2.2c872027.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-zomato-api/static/media/Restaurant-Food.56398120.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b18794d1.js",
+    "static/js/2.2c872027.chunk.js",
+    "static/css/main.a3864f47.chunk.css",
+    "static/js/main.c78bf4b3.chunk.js"
+  ]
+}
